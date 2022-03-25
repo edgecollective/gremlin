@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name rotary_2010)(type Legacy)(uri ${KIPRJMOD}/symbols/rotary_2010.lib)(options "")(descr ""))
+  (lib (name ESP32-footprints-Shem-Lib)(type Legacy)(uri ${KIPRJMOD}/symbols/ESP32-footprints-Shem-Lib.lib)(options "")(descr ""))
+  (lib (name device)(type Legacy)(uri ${KIPRJMOD}/symbols/device.lib)(options "")(descr ""))
+  (lib (name Adafruit_AirLift_FeatherWing-eagle-import)(type Legacy)(uri ${KIPRJMOD}/symbols/Adafruit_AirLift_FeatherWing-eagle-import.lib)(options "")(descr ""))
+  (lib (name mysensors_radios)(type Legacy)(uri ${KIPRJMOD}/symbols/mysensors_radios.lib)(options "")(descr ""))
+  (lib (name dog)(type Legacy)(uri ${KIPRJMOD}/symbols/dog.lib)(options "")(descr ""))
+)
